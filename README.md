@@ -15,6 +15,6 @@
 </video> Así se sienten al sacar buenas notas (Español)
 
 
-<video width="320" height="240" controls loop="false">
+<video width="320" height="240" controls loop=false>
 <source src="https://github.com/liam-clowes/ggf/raw/main/assets/IT_Cosi%CC%80%20ci%20si%20sente%20a%20prendere%20voti%20migliori!.mp4">
 </video> Così ci si sente a prendere voti migliori! (Italiano)
